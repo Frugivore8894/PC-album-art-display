@@ -4,7 +4,7 @@ This is a concept of a display/device that hooks into what music you are listeni
 
  I'm currently looking for collaborators who can help make this a reality. I'm looking for people who are interested in taking on this project as a (side) passion project. I'm a CAD and prototyping guy, not an electrical engineer, and I need people who can do the device's software and hardware. Hit me up if you're interested in taking up this as a cool project.
 
-Consept quick CAD model 
+Quick consept CAD model 
 
 ![image](https://user-images.githubusercontent.com/91857314/216833164-9683fc02-f266-4b30-8859-6e41bf8fbf7b.png)
 
