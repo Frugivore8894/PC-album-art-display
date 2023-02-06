@@ -4,8 +4,28 @@ This is a concept of a display/device that hooks into what music you are listeni
 
  I'm currently looking for collaborators who can help make this a reality. I'm looking for people who are interested in taking on this project as a (side) passion project. I'm a CAD and prototyping guy, not an electrical engineer, and I need people who can do the device's software and hardware. Hit me up if you're interested in taking up this as a cool project.
 
-Quick consept CAD model 
+**Goals/Todos**
+
+- Start development on software 
+
+  First stage supported apps iTunes for windows, Spotify, and YouTube music
+
+  Second stage and beyond Plexamp, Tidal, and more
+
+  Windows and Linux support are priority and Mac will be added when possible
+ 
+- Pick hardware and source prototyping parts
+
+  When possible parts will be on the cheaper end and easy to sorce
+ 
+ - Create and prototype case around hardware
+
+   At least two versions will be made. One to work with FDM printers and a second version for SLS printing and CNC machining. 
+
+**Quick consept CAD model**
 
 ![image](https://user-images.githubusercontent.com/91857314/216833164-9683fc02-f266-4b30-8859-6e41bf8fbf7b.png)
 
 ![image](https://user-images.githubusercontent.com/91857314/216833186-6e53f878-79ff-4146-b673-09d7b9990230.png)
+
+
